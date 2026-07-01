@@ -71,6 +71,56 @@ All spatial maps render on a proper India basemap (coastline, country and
 state borders via Cartopy where available, with an India-outline fallback
 when Cartopy/Natural-Earth data can't be downloaded).
 
+## Results
+
+<!--
+  HOW TO FILL THIS IN:
+  1. Run the notebook, download each PNG/GIF from /kaggle/working/.
+  2. Open this file in the GitHub web editor (or open a new Issue —
+     either works), then drag-and-drop each image straight into the
+     text box. GitHub uploads it and auto-inserts a line like:
+       ![training_curve](https://github.com/user-attachments/assets/xxxx)
+  3. Cut that auto-inserted line and paste it in place of the matching
+     placeholder line below, then commit.
+  This is exactly how the training_curve.png example was generated.
+-->
+
+### Training convergence
+
+![training_curve](https://github.com/user-attachments/assets/e9a8f75b-3c11-464f-969b-7263e2ac2e11)
+
+### Model evaluation — scatter, residuals, uncertainty
+
+![evaluation](PASTE_evaluation_URL_HERE)
+
+### Seasonal AQI maps (India basemap)
+
+![seasonal_aqi](PASTE_seasonal_aqi_URL_HERE)
+
+### Seasonal HCHO / Fire stratification (India basemap)
+
+![seasonal_stratification](PASTE_seasonal_stratification_URL_HERE)
+
+### DBSCAN vs. threshold hotspot detection
+
+![dbscan_comparison](PASTE_dbscan_comparison_URL_HERE)
+
+### Fire–HCHO correlation, BLH regression & wind transport
+
+![correlation_transport](PASTE_correlation_transport_URL_HERE)
+
+### Animated HCHO evolution (Kharif burning season)
+
+![hcho_animation](PASTE_hcho_animation_URL_HERE)
+
+### Regional time series & temporal attention weights
+
+![timeseries_attention](PASTE_timeseries_attention_URL_HERE)
+
+> `interactive_aqi_map.html` is a live Folium map and can't be embedded as
+> a static image — link to it directly, or add a screenshot here too if
+> you'd like a preview.
+
 ## Running it
 
 This notebook was built for a Kaggle GPU notebook environment with two
