@@ -87,43 +87,41 @@ when Cartopy/Natural-Earth data can't be downloaded).
 
 ### Training convergence
 
-![training_curve](<img width="1350" height="600" alt="training_curve" src="https://github.com/user-attachments/assets/f9116a16-edf6-499e-bae4-5f0fa28dca9d" />
-)
+<img width="1350" height="600" alt="training_curve" src="https://github.com/user-attachments/assets/f9116a16-edf6-499e-bae4-5f0fa28dca9d" />
+
 
 ### Model evaluation — scatter, residuals, uncertainty
 
-![evaluation](<img width="2550" height="750" alt="evaluation" src="https://github.com/user-attachments/assets/1db47940-7dd6-4c90-af8d-bcc7f928e00c" />
-)
+<img width="2550" height="750" alt="evaluation" src="https://github.com/user-attachments/assets/1db47940-7dd6-4c90-af8d-bcc7f928e00c" />
+
 
 ### Seasonal AQI maps (India basemap)
 
-![seasonal_aqi](<img width="3562" height="1144" alt="seasonal_aqi" src="https://github.com/user-attachments/assets/6768b748-f6c2-496a-900a-cf71fa2748f6" />
-)
+<img width="3562" height="1144" alt="seasonal_aqi" src="https://github.com/user-attachments/assets/6768b748-f6c2-496a-900a-cf71fa2748f6" />
+
 
 ### Seasonal HCHO / Fire stratification (India basemap)
 
-![seasonal_stratification](<img width="3576" height="1947" alt="seasonal_stratification" src="https://github.com/user-attachments/assets/73a80339-3915-461a-a685-e22af0df0e7e" />
-)
+<img width="3576" height="1947" alt="seasonal_stratification" src="https://github.com/user-attachments/assets/73a80339-3915-461a-a685-e22af0df0e7e" />
+
 
 ### DBSCAN vs. threshold hotspot detection
 
-![dbscan_comparison](<img width="2949" height="904" alt="dbscan_comparison" src="https://github.com/user-attachments/assets/e63a2fec-8add-40c2-8068-792359b34335" />
-E)
+<img width="2949" height="904" alt="dbscan_comparison" src="https://github.com/user-attachments/assets/e63a2fec-8add-40c2-8068-792359b34335" />
 
 ### Fire–HCHO correlation, BLH regression & wind transport
 
-![correlation_transport](<img width="2958" height="881" alt="correlation_transport" src="https://github.com/user-attachments/assets/45bf1fe5-fa8f-4742-b52e-9bc22d681073" />
-)
+<img width="2958" height="881" alt="correlation_transport" src="https://github.com/user-attachments/assets/45bf1fe5-fa8f-4742-b52e-9bc22d681073" />
 
 ### Animated HCHO evolution (Kharif burning season)
 
-![hcho_animation](<img width="656" height="545" alt="hcho_animation" src="https://github.com/user-attachments/assets/f1f5234a-cce0-4890-ac6c-ae808448769b" />
-)
+<img width="656" height="545" alt="hcho_animation" src="https://github.com/user-attachments/assets/f1f5234a-cce0-4890-ac6c-ae808448769b" />
+
 
 ### Regional time series & temporal attention weights
 
-![timeseries_attention](<img width="2079" height="1481" alt="timeseries_attention" src="https://github.com/user-attachments/assets/b5d12255-c5a8-486e-9847-29c7c5a36481" />
-)
+<img width="2079" height="1481" alt="timeseries_attention" src="https://github.com/user-attachments/assets/b5d12255-c5a8-486e-9847-29c7c5a36481" />
+
 
 
 ## Running it
